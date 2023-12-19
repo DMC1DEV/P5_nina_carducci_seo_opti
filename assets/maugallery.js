@@ -137,7 +137,7 @@
           <div class="modal-content">
             <div class="modal-body">
               ${navigation ? '<div class="mg-prev" style="cursor:pointer;position:absolute;top:50%;left:10px;z-index:1000;">&lt;</div>' : ''}
-              <img class="lightboxImage img-fluid" />
+              <img class="lightboxImage img-fluid" alt="Création de la gallerie d'images"/>
               ${navigation ? '<div class="mg-next" style="cursor:pointer;position:absolute;top:50%;right:10px;z-index:1000;">&gt;</div>' : ''}
             </div>
           </div>
